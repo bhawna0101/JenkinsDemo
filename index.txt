@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 3C4A-F884
+
+ Directory of C:\Users\bhawna\Desktop\JavaProject
+
+26-09-2019  01:22    <DIR>          .
+26-09-2019  01:22    <DIR>          ..
+26-09-2019  01:07               416 bacis.class
+18-06-2019  02:16               134 bacis.java
+26-09-2019  01:22    <DIR>          Hi
+26-09-2019  01:22                 0 index.txt
+               3 File(s)            550 bytes
+               3 Dir(s)  431,522,353,152 bytes free
